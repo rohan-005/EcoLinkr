@@ -89,3 +89,7 @@ env/
 # Keep the .gitignore itself
 !.gitignore
 
+
+# Workspace symlink
+EcoLinkr
+
